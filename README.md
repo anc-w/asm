@@ -4,7 +4,7 @@
 Designed for educational purposes, red teaming sketches, quick recon, and learning — **use only on targets you own or have explicit permission to test**.
 
 ![Banner Example](https://i.ibb.co/qMqcMhS6/Screenshot-2026-02-17-183453.png)  
-*(Replace with your actual banner2.txt rendered screenshot if you want)*
+
 
 ## Features
 
