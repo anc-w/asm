@@ -44,5 +44,4 @@ Designed for educational purposes, red teaming sketches, quick recon, and learni
 
 ## Requirements
 
-```bash
-pip install colorama requests
+run setup.bat
