@@ -1,0 +1,4 @@
+Thanks for downloading ASM (actually safe multitool), made fully by anc.w on discord! Free to modify and redistribute.
+ASM is a multitool meant to be safe, equipped with the general options a multitool would have, fully open sourced, at your service to do whatever.
+If to redistribute, this is not required, but I do request that you give credits for the main tool you built your modifications off of.
+Run setup.bat to set everything up.
