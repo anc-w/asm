@@ -1,7 +1,7 @@
 # ASM Multi-Tool
 
 **ASM** is a lightweight, multi-purpose security and OSINT toolkit written in Python.  
-Designed for educational purposes, red teaming sketches, quick recon, and learning — **use only on targets you own or have explicit permission to test**.
+Designed for educational purposes, red teaming sketches, quick recon, and learning.
 
 ![Banner Example](https://i.ibb.co/qMqcMhS6/Screenshot-2026-02-17-183453.png)  
 
@@ -38,11 +38,11 @@ Designed for educational purposes, red teaming sketches, quick recon, and learni
   - Local network interfaces
 
 - **Other**
-  - Basic DoS / stress test modules (educational only — weak & detectable)
+  - Basic DoS / stress test modules (educational only)
   - TCP listener (netcat style)
   - Update checker (GitHub releases)
 
 ## Requirements
 
-run setup.bat
+run setup.bat, 
 you need python (this was built in 3.12.3)
