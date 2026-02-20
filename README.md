@@ -44,5 +44,8 @@ Designed for educational purposes, red teaming sketches, quick recon, and learni
 
 ## Requirements
 
-run setup.bat, 
-you need python (this was built in 3.12.3)
+- run setup.bat, 
+- you need python (this was built in 3.12.3)
+-
+-
+- i made this readme with ai, if anythings wrong thats why, everything else i made myself
